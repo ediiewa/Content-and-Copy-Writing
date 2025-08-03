@@ -1,44 +1,48 @@
 # Content-and-Copy-Writing
-	QUANTITY SURVEYING SERVICES PROVIDER = A PERSONAL BRAND
 
-Qverview: The quantity Surveyor is there to provide adversary service for the construction industry.
-A Quantity Surveyor (QS) manages the costs of construction projects, ensuring financial efficiency and value for money. They are involved in cost estimation, budgeting, contract management, and risk assessment, from the initial planning stages through to project completion. 
+QUANTITY SURVEYING SERVICES PROVIDER = A PERSONAL BRAND
+
+Overview: The quantity Surveyor is there to provide advisory service for the construction industry.
+
+A Quantity Surveyor (QS) manages the costs of construction projects, ensuring financial efficiency and value for money. 
+
+They are involved in cost estimation, budgeting, contract management, and risk assessment, from the initial planning stages through to project completion. 
 Here's a more detailed breakdown of a Quantity Surveyor's duties:
 Cost Management:
-•	Cost Estimation and Budgeting:
-QSs prepare detailed cost estimates for materials, labor, and other project components. They develop and manage project budgets, track expenses, and identify cost-saving opportunities. 
-•	Cost Planning:
-They develop cost plans at different stages of a project, ensuring that the project stays within the allocated budget. 
-•	Cost Control:
-QSs monitor project costs throughout the construction phase, identifying and addressing any cost overruns or variations. 
-•	Financial Feasibility Studies:
-They conduct studies to assess the financial viability of construction projects. 
-Contract and Procurement:
-•	Tender Preparation and Management:
-QSs prepare tender documents, including bills of quantities, and manage the tendering process. 
-•	Contract Negotiation and Management:
-They negotiate contracts with contractors and subcontractors, ensuring favorable terms for the client. 
-•	Procurement Advice:
-They provide advice on procurement strategies, helping clients to source materials and services efficiently. 
+• Cost Estimation and Budgeting:
+	QSs prepare detailed cost estimates for materials, labor, and other project components. They develop and manage project budgets, track 		expenses, and identify cost-saving opportunities. 
+• Cost Planning:
+	They develop cost plans at different stages of a project, ensuring that the project stays within the allocated budget. 
+• Cost Control:
+	QSs monitor project costs throughout the construction phase, identifying and addressing any cost overruns or variations. 
+• Financial Feasibility Studies:
+	They conduct studies to assess the financial viability of construction projects. 
+	Contract and Procurement:
+• Tender Preparation and Management:
+	QSs prepare tender documents, including bills of quantities, and manage the tendering process. 
+• Contract Negotiation and Management:
+	They negotiate contracts with contractors and subcontractors, ensuring favorable terms for the client. 
+• Procurement Advice:
+	They provide advice on procurement strategies, helping clients to source materials and services efficiently. 
 Risk Management:
-•	Risk Assessment: QSs identify and assess potential risks associated with a construction project, including financial, legal, and logistical risks.
-•	Risk Mitigation: They develop and implement strategies to mitigate identified risks. 
+• Risk Assessment: QSs identify and assess potential risks associated with a construction project, including financial, legal, and 			logistical risks.
+• Risk Mitigation: They develop and implement strategies to mitigate identified risks. 
 Other Key Duties:
-•	Valuation of Work:
-QSs assess the value of work completed by contractors during the construction process. 
-•	Claims and Dispute Resolution:
-They assist with resolving contractual disputes and claims. 
-•	Reporting:
-QSs prepare regular financial reports for clients, detailing project costs, progress, and potential risks. 
-•	Liaison:
-They liaise with various stakeholders, including clients, architects, engineers, contractors, and subcontractors. 
-•	Staying Updated:
-QSs keep abreast of industry best practices, new technologies, and changes in building regulations. 
+• Valuation of Work:
+	QSs assess the value of work completed by contractors during the construction process. 
+• Claims and Dispute Resolution:
+	They assist with resolving contractual disputes and claims. 
+• Reporting:
+	QSs prepare regular financial reports for clients, detailing project costs, progress, and potential risks. 
+• Liaison:
+	They liaise with various stakeholders, including clients, architects, engineers, contractors, and subcontractors. 
+• Staying Updated:
+	QSs keep abreast of industry best practices, new technologies, and changes in building regulations. 
 
 
 
 Brand voice is Friendly
-Target audience is builders, Architects, Engineers and organizations that carry out construction activities.
+Target audience are builders, Architects, Engineers, individuals and organizations that carry out construction activities.
 
 1.	Content Strategy Plan
 - Campaign goal (awareness, engagement, conversion, etc.)
